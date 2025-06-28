@@ -17,8 +17,8 @@
             ]
         },
         {
-            "subject": "EL 1",
-            "courseCode": "EL1131",
+            "subject": "Physics 1",
+            "courseCode": "PC1131",
             "classID": "M25102",
             "items": [
                 {
@@ -41,7 +41,7 @@
                 },
                 {
                     "type": "info",
-                    "content": "For more information, please see HBL (SIL) Teams post: v.gd/5UUYCx"
+                    "content": "For more information, please see HBL (SIL) Teams post: https://v.gd/5UUYCx"
                 }
             ]
         },
@@ -65,7 +65,7 @@
             "items": [
                 {
                     "type": "homework",
-                    "content": "Read Wonder Full Text - E-copy: v.gd/pb8OtF",
+                    "content": "Read Wonder Full Text - E-copy: https://v.gd/pb8OtF",
                     "dueDate": "2025-07-02T15:00:00",
                     "optional": false
                 },
@@ -77,7 +77,7 @@
                 },
                 {
                     "type": "info",
-                    "content": "For more information, refer to HBL (SIL) Teams post: v.gd/4UDLZ1"
+                    "content": "For more information, refer to HBL (SIL) Teams post: https://v.gd/4UDLZ1"
                 }
             ]
         }
