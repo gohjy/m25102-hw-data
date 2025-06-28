@@ -1,0 +1,85 @@
+{
+    "class": "M25102",
+    "lastUpdate": "2025-06-29T00:00:00",
+    "url": "https://gohjy.github.io/m25102-hw-data/data/data.json",
+    "homeworkData": [
+        {
+            "subject": "Chem 1",
+            "courseCode": "CM1131",
+            "classID": "M25102",
+            "items": [
+                {
+                    "type": "homework",
+                    "content": "June Holidays Revision Package",
+                    "dueDate": "2025-07-04T08:30:00",
+                    "optional": false
+                }
+            ]
+        },
+        {
+            "subject": "EL 1",
+            "courseCode": "EL1131",
+            "classID": "M25102",
+            "items": [
+                {
+                    "type": "homework",
+                    "content": "EIP 1 - Submarine - ChatGPT & Construction Task",
+                    "dueDate": "2025-06-29T23:59:59",
+                    "optional": true
+                },
+                {
+                    "type": "homework",
+                    "content": "Ch 11 Notes & SLS Lesson (https://v.gd/xnVGPt)",
+                    "dueDate": "2025-06-29T23:59:59",
+                    "optional": false
+                },
+                {
+                    "type": "homework",
+                    "content": "Ch 11 Exit Card on Padlet",
+                    "dueDate": "2025-06-29T23:59:59",
+                    "optional": false
+                },
+                {
+                    "type": "info",
+                    "content": "For more information, please see HBL (SIL) Teams post: v.gd/5UUYCx"
+                }
+            ]
+        },
+        {
+            "subject": "Math 1",
+            "courseCode": "MA1133",
+            "classID": "M25102",
+            "items": [
+                {
+                    "type": "homework",
+                    "content": "June Holidays Revision Package - https://v.gd/oDJRHN",
+                    "dueDate": "2025-06-30T10:30:00",
+                    "optional": false
+                }
+            ]
+        },
+        {
+            "subject": "EL 1",
+            "courseCode": "EL1131",
+            "classID": "M25102",
+            "items": [
+                {
+                    "type": "homework",
+                    "content": "Read Wonder Full Text - E-copy: v.gd/pb8OtF",
+                    "dueDate": "2025-07-02T15:00:00",
+                    "optional": false
+                },
+                {
+                    "type": "homework",
+                    "content": "PBQ Practice Paper",
+                    "dueDate": "2025-07-02T15:00:00",
+                    "optional": true
+                },
+                {
+                    "type": "info",
+                    "content": "For more information, refer to HBL (SIL) Teams post: v.gd/4UDLZ1"
+                }
+            ]
+        }
+    ]
+}
