@@ -86,6 +86,19 @@
                     "content": "For more information, refer to HBL (SIL) Teams post: https://v.gd/4UDLZ1"
                 }
             ]
+        },
+        {
+            "subject": "DV D&E Design",
+            "courseCode": "DV1132",
+            "classID": "M25102",
+            "items": [
+                {
+                    "type": "homework",
+                    "content": "[Design] Prepare two photos and print",
+                    "dueDate": "2025-07-07T13:00:00",
+                    "optional": false
+                }
+            ]
         }
     ]
 }
