@@ -53,7 +53,13 @@
                 {
                     "type": "homework",
                     "content": "June Holidays Revision Package - https://v.gd/oDJRHN",
-                    "dueDate": "2025-06-30T10:30:00",
+                    "dueDate": "2025-07-02T11:30:00",
+                    "optional": false
+                },
+                {
+                    "type": "homework",
+                    "content": "Tutorial 10.1 - Q1, 2, 3, 5, 8",
+                    "dueDate": "2025-07-02T11:30:00",
                     "optional": false
                 }
             ]
