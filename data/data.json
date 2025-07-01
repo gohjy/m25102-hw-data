@@ -112,6 +112,19 @@
                     "optional": false
                 }
             ]
+        },
+        {
+            "subject": "Art 1",
+            "courseCode": "AR1134",
+            "classID": "M25102",
+            "items": [
+                {
+                    "type": "homework",
+                    "content": "Prepare A4 plastic protector and 12-set of watercolour pencils",
+                    "dueDate": "2025-07-08T10:30:00",
+                    "optional": false
+                }
+            ]
         }
     ]
 }
