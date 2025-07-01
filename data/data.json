@@ -4,6 +4,19 @@
     "url": "https://gohjy.github.io/m25102-hw-data/data/data.json",
     "homeworkData": [
         {
+            "subject": "CS 1",
+            "courseCode": "CS1131",
+            "classID": "M25102",
+            "items": [
+                {
+                    "type": "homework",
+                    "content": "Complete Lab 2 worksheet",
+                    "dueDate": "2025-07-14T08:00:00",
+                    "optional": false
+                }
+            ]
+        },
+        {
             "subject": "Chem 1",
             "courseCode": "CM1131",
             "classID": "M25102",
