@@ -125,6 +125,19 @@
                     "optional": false
                 }
             ]
+        },
+        {
+            "subject": "HCL 1",
+            "courseCode": "CH1531",
+            "classID": "B",
+            "items": [
+                {
+                    "type": "homework",
+                    "content": "Workbook B Pg 1-3",
+                    "dueDate": null,
+                    "optional": false
+                }
+            ]
         }
     ]
 }
