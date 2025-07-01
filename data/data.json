@@ -36,12 +36,6 @@
             "items": [
                 {
                     "type": "homework",
-                    "content": "EIP 1 - Submarine - ChatGPT & Construction Task",
-                    "dueDate": "2025-06-29T23:59:59",
-                    "optional": true
-                },
-                {
-                    "type": "homework",
                     "content": "Ch 11 Notes & SLS Lesson (https://v.gd/xnVGPt)",
                     "dueDate": "2025-06-29T23:59:59",
                     "optional": false
@@ -54,7 +48,7 @@
                 },
                 {
                     "type": "info",
-                    "content": "For more information, please see HBL (SIL) Teams post: https://v.gd/5UUYCx"
+                    "content": "For more information, please see HBL (SIL) Teams post: https://v.gd/5UUYCx and T3W1 Teams post: https://v.gd/vL3xSw"
                 }
             ]
         },
@@ -108,7 +102,7 @@
                 {
                     "type": "homework",
                     "content": "[Design] Prepare two photos and print",
-                    "dueDate": "2025-07-07T13:00:00",
+                    "dueDate": "2025-07-14T13:00:00",
                     "optional": false
                 }
             ]
