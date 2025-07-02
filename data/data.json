@@ -130,6 +130,12 @@
                     "content": "Workbook B Pg 1-3",
                     "dueDate": null,
                     "optional": false
+                },
+                {
+                    "type": "homework",
+                    "content": "Bring storybook to return/exchange",
+                    "dueDate": "2025-07-02T09:00:00",
+                    "optional": false
                 }
             ]
         }
