@@ -4,6 +4,19 @@
     "url": "https://gohjy.github.io/m25102-hw-data/data/data.json",
     "homeworkData": [
         {
+            "subject": "Mentoring/CCE",
+            "courseCode": "CE1100",
+            "classID": "M25102",
+            "items": [
+                {
+                    "type": "homework",
+                    "content": "Gratitude picture slide (see https://v.gd/RSe3Td)",
+                    "dueDate": "2025-07-11T21:00:00",
+                    "optional": false
+                }
+            ]
+        },
+        {
             "subject": "CS 1",
             "courseCode": "CS1131",
             "classID": "M25102",
@@ -36,19 +49,13 @@
             "items": [
                 {
                     "type": "homework",
-                    "content": "Ch 11 Notes & SLS Lesson (https://v.gd/xnVGPt)",
-                    "dueDate": "2025-06-29T23:59:59",
-                    "optional": false
-                },
-                {
-                    "type": "homework",
-                    "content": "Ch 11 Exit Card on Padlet",
-                    "dueDate": "2025-06-29T23:59:59",
+                    "content": "Read topic 12, bring file, Sem 1 and 2 notes and musical instrument",
+                    "dueDate": "2025-07-03T08:00:00",
                     "optional": false
                 },
                 {
                     "type": "info",
-                    "content": "For more information, please see HBL (SIL) Teams post: https://v.gd/5UUYCx and T3W1 Teams post: https://v.gd/vL3xSw"
+                    "content": "T3W1 Teams post: https://v.gd/vL3xSw\n2 Jul Teams post: https://v.gd/XjLQAr"
                 }
             ]
         },
@@ -72,19 +79,9 @@
             "items": [
                 {
                     "type": "homework",
-                    "content": "Read Wonder Full Text - E-copy: https://v.gd/pb8OtF",
-                    "dueDate": "2025-07-02T15:00:00",
+                    "content": "Draft a second point (Q) for PBQ worksheet",
+                    "dueDate": "2025-07-03T11:30:00",
                     "optional": false
-                },
-                {
-                    "type": "homework",
-                    "content": "PBQ Practice Paper",
-                    "dueDate": "2025-07-02T15:00:00",
-                    "optional": true
-                },
-                {
-                    "type": "info",
-                    "content": "For more information, refer to HBL (SIL) Teams post: https://v.gd/4UDLZ1"
                 }
             ]
         },
@@ -128,7 +125,7 @@
                 {
                     "type": "homework",
                     "content": "Bring storybook to return/exchange",
-                    "dueDate": "2025-07-02T09:00:00",
+                    "dueDate": "2025-07-04T09:00:00",
                     "optional": false
                 }
             ]
