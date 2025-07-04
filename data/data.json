@@ -45,9 +45,25 @@
             "classID": "M25102",
             "items": [
                 {
+                    "type": "info",
+                    "content": "Learning Check (Topic 7): 11 Jul 2025"
+                },
+                {
                     "type": "homework",
                     "content": "June Holidays Revision Package",
-                    "dueDate": "2025-07-04T08:30:00",
+                    "dueDate": "2025-07-11T08:30:00",
+                    "optional": false
+                },
+                {
+                    "type": "homework",
+                    "content": "Worksheet 7.4 & 7.5",
+                    "dueDate": null,
+                    "optional": false
+                },
+                {
+                    "type": "homework",
+                    "content": "Topic 7 Key Ideas WS",
+                    "dueDate": null,
                     "optional": false
                 }
             ]
