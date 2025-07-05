@@ -56,7 +56,7 @@
                 },
                 {
                     "type": "homework",
-                    "content": "Worksheet 7.4 & 7.5",
+                    "content": "Worksheet 7.3, 7.4 & 7.5",
                     "dueDate": null,
                     "optional": false
                 },
@@ -124,7 +124,7 @@
             ]
         },
         {
-            "subject": "DV D&E Design",
+            "subject": "DV D&E 1 Design",
             "courseCode": "DV1132",
             "classID": "M25102",
             "items": [
@@ -156,7 +156,7 @@
             "items": [
                 {
                     "type": "homework",
-                    "content": "Complete Review WS 3 (Cells) - Structure of Organelles",
+                    "content": "Complete Review WS 4 (Topic 3: Cells) - Structure of Organelles",
                     "dueDate": "2025-07-09T09:30:00",
                     "optional": false
                 },
