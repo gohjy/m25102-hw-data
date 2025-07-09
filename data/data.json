@@ -100,8 +100,14 @@
             "items": [
                 {
                     "type": "homework",
-                    "content": "Tutorial 10.1 (Compulsory: Q1, 2, 3, 5, 8, 11, 17, 19)",
-                    "dueDate": "2025-07-09T11:30:00",
+                    "content": "Tutorial 10.2 (compulsory: Q1, 2, 8, 9) (foolscap, worksheet or OneNote)",
+                    "dueDate": "2025-07-14T10:30:00",
+                    "optional": false
+                },
+                {
+                    "type": "homework",
+                    "content": "Assignment 10 (hardcopy only)",
+                    "dueDate": "2025-07-14T16:00:00",
                     "optional": false
                 }
             ]
