@@ -10,7 +10,7 @@
             "items": [
                 {
                     "type": "info",
-                    "content": "Annual Health Screening: 22 Jul 1130-1230 (wear PE attire)\nTeams post: https://v.gd/7UdeAj"
+                    "content": "Annual Health Screening: 22 Jul 1130-1230 (wear PE attire) \nTeams post: https://v.gd/7UdeAj"
                 },
                 {
                     "type": "homework",
@@ -75,7 +75,7 @@
             "items": [
                 {
                     "type": "homework",
-                    "content": "Hand in file (if you haven't)",
+                    "content": "Submit file (if you haven't)",
                     "dueDate": "2025-07-10T08:00:00",
                     "optional": false
                 },
@@ -113,13 +113,7 @@
             "items": [
                 {
                     "type": "info",
-                    "content": "PBQ Formative: 9 Jul 2025\nPBQ Summative: 30 Jul 2025"
-                },
-                {
-                    "type": "homework",
-                    "content": "Bring PBQ Practice 2 WS",
-                    "dueDate": "2025-07-04T12:00:00",
-                    "optional": false
+                    "content": "PBQ Formative: 9 Jul 2025 \nPBQ Summative: 30 Jul 2025"
                 }
             ]
         },
@@ -130,7 +124,7 @@
             "items": [
                 {
                     "type": "homework",
-                    "content": "[Design] Prepare two photos and print",
+                    "content": "[Design] Prepare two photos and print (black and white)",
                     "dueDate": "2025-07-14T13:00:00",
                     "optional": false
                 }
@@ -156,8 +150,8 @@
             "items": [
                 {
                     "type": "homework",
-                    "content": "Complete Review WS 4 (Topic 3: Cells) - Structure of Organelles",
-                    "dueDate": "2025-07-09T09:30:00",
+                    "content": "Complete and mark Review WS 4 (Topic 3: Cells)",
+                    "dueDate": null,
                     "optional": false
                 },
                 {
