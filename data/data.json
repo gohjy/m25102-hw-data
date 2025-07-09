@@ -50,12 +50,6 @@
                 },
                 {
                     "type": "homework",
-                    "content": "June Holidays Revision Package",
-                    "dueDate": "2025-07-11T08:30:00",
-                    "optional": false
-                },
-                {
-                    "type": "homework",
                     "content": "Worksheet 7.3, 7.4 & 7.5",
                     "dueDate": null,
                     "optional": false
@@ -119,7 +113,7 @@
             "items": [
                 {
                     "type": "info",
-                    "content": "PBQ Formative: 9 Jul 2025 \nPBQ Summative: 30 Jul 2025"
+                    "content": "PBQ Summative: 30 Jul 2025"
                 }
             ]
         },
