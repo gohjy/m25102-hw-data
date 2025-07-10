@@ -68,22 +68,8 @@
             "classID": "M25102",
             "items": [
                 {
-                    "type": "homework",
-                    "content": "Submit file (if you haven't)",
-                    "dueDate": "2025-07-10T08:00:00",
-                    "optional": false
-                },
-                {
-                    "type": "homework",
-                    "content": "Complete Pg 9 of Sem 2 notes",
-                    "dueDate": "2025-07-10T08:00:00",
-                    "optional": false
-                },
-                {
-                    "type": "homework",
-                    "content": "Ch 11 EM Spectrum Quiz: https://v.gd/vF27s0",
-                    "dueDate": "2025-07-09T21:00:00",
-                    "optional": false
+                    "type": "info",
+                    "content": "HBL (BL) on 15 and 17 Jul 2025 \n15 Jul: homework task TBC (async) \n17 Jul: Online meeting, details TBC"
                 }
             ]
         },
@@ -114,6 +100,12 @@
                 {
                     "type": "info",
                     "content": "PBQ Summative: 30 Jul 2025"
+                },
+                {
+                    "type": "homework",
+                    "content": "Individual Poetry Assignment - https://v.gd/cYQhZS",
+                    "dueDate": "2025-08-22T20:00:00",
+                    "optional": false
                 }
             ]
         },
@@ -187,8 +179,14 @@
             "classID": "M25102",
             "items": [
                 {
+                    "type": "homework",
+                    "content": "Test Helping Sheet",
+                    "dueDate": null,
+                    "optional": false
+                },
+                {
                     "type": "info",
-                    "content": "Test: 10 Jul 2025"
+                    "content": "Test: 18 Jul 2025"
                 }
             ]
         }
