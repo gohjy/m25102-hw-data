@@ -45,18 +45,14 @@
             "classID": "M25102",
             "items": [
                 {
-                    "type": "info",
-                    "content": "Learning Check (Topic 7): 11 Jul 2025"
-                },
-                {
                     "type": "homework",
-                    "content": "Worksheet 7.3, 7.4 & 7.5",
+                    "content": "Read notes for Topic 8 (pg 25-29) and Appendix 2",
                     "dueDate": null,
                     "optional": false
                 },
                 {
                     "type": "homework",
-                    "content": "Topic 7 Key Ideas WS",
+                    "content": "Worksheet 8.2 and 8.3",
                     "dueDate": null,
                     "optional": false
                 }
@@ -127,12 +123,6 @@
             "courseCode": "AR1134",
             "classID": "M25102",
             "items": [
-                {
-                    "type": "homework",
-                    "content": "Prepare A4 plastic protector and 12-set of watercolour pencils",
-                    "dueDate": "2025-07-08T10:30:00",
-                    "optional": false
-                }
             ]
         },
         {
