@@ -11,12 +11,6 @@
                 {
                     "type": "info",
                     "content": "Annual Health Screening: 22 Jul 1130-1230 (wear PE attire) \nTeams post: https://v.gd/7UdeAj"
-                },
-                {
-                    "type": "homework",
-                    "content": "Gratitude picture slide (see https://v.gd/RSe3Td)",
-                    "dueDate": "2025-07-11T21:00:00",
-                    "optional": false
                 }
             ]
         },
@@ -171,7 +165,7 @@
                 {
                     "type": "homework",
                     "content": "Test Helping Sheet",
-                    "dueDate": null,
+                    "dueDate": "20250718T14:00:00",
                     "optional": false
                 },
                 {
