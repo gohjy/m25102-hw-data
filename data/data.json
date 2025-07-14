@@ -119,6 +119,10 @@
             "classID": "M25102",
             "items": [
                 {
+                    "type": "info",
+                    "content": "GT 1 (Topic 3) on 23 Jul 2025 \nTeams post: https://v.gd/1FPSQ2"
+                },
+                {
                     "type": "homework",
                     "content": "Complete and mark Review WS 4 (Topic 3: Cells)",
                     "dueDate": null,
