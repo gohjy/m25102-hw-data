@@ -152,24 +152,20 @@
                     "content": "Workbook B Pg 1-7",
                     "dueDate": null,
                     "optional": false
+                },
+                {
+                    "type": "homework",
+                    "content": "HBL (SLS Assignment) https://v.gd/tI6E3H",
+                    "dueDate": "2025-07-22T8:00:00",
+                    "optional": false
                 }
             ]
-        },
+        },  
         {
             "subject": "Hum 1",
             "courseCode": "HU1131",
             "classID": "M25102",
             "items": [
-                {
-                    "type": "homework",
-                    "content": "Test Helping Sheet",
-                    "dueDate": "20250718T14:00:00",
-                    "optional": false
-                },
-                {
-                    "type": "info",
-                    "content": "Test: 18 Jul 2025"
-                }
             ]
         }
     ]
