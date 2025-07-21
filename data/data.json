@@ -11,6 +11,12 @@
                 {
                     "type": "info",
                     "content": "Annual Health Screening: 22 Jul 1130-1230 (wear PE attire) \nTeams post: https://v.gd/7UdeAj"
+                },
+                {
+                    "type": "homework",
+                    "content": "Racial Harmony Day Pre-lesson activity \nTeams assignment: https://v.gd/KAC2sU",
+                    "dueDate": "2025-07-22T18:00:00",
+                    "optional": false
                 }
             ]
         },
@@ -20,9 +26,13 @@
             "classID": "M25102",
             "items": [
                 {
+                    "type": "info",
+                    "content": "GT 1 - 4 Aug 2025 - https://v.gd/ayvNdp"
+                },
+                {
                     "type": "homework",
-                    "content": "Coursemology Labs 3, 4 and 5.0 \n(https://v.gd/TbP9GU, https://v.gd/6qrMbd, https://v.gd/ekyY17)",
-                    "dueDate": "2025-07-21T08:00:00",
+                    "content": "Coursemology Lab 5.1 - https://v.gd/UiOgPp (open now) \nCoursemology Lab 6 - https://v.gd/Tg1GEp (opens 23 Jul)",
+                    "dueDate": null,
                     "optional": false
                 }
             ]
@@ -63,15 +73,13 @@
             "classID": "M25102",
             "items": [
                 {
-                    "type": "homework",
-                    "content": "Tutorial 10.3 (Q1-5, 14, 16, 18, 22, 23 compulsory)",
-                    "dueDate": "2025-07-21T10:30:00",
-                    "optional": false
+                    "type": "info",
+                    "content": "GT 4 - 30 Jul 2025 \nICW 11 - 23 Jul 2025"
                 },
                 {
                     "type": "homework",
-                    "content": "Assignment 11",
-                    "dueDate": "2025-07-21T16:00:00",
+                    "content": "Tutorial 13.1",
+                    "dueDate": "2025-07-23T11:30:00",
                     "optional": false
                 }
             ]
