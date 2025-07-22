@@ -9,8 +9,10 @@
             "classID": "M25102",
             "items": [
                 {
-                    "type": "info",
-                    "content": "Annual Health Screening: 22 Jul 1130-1230 (wear PE attire) \nTeams post: https://v.gd/7UdeAj"
+                    "type": "homework",
+                    "content": "Pre-lesson activity for RHD CCE lesson on 23/7 \n Teams Post: https://v.gd/NCKsLp",
+                    "dueDate": "2025-07-23T14:00:00",
+                    "optional": false
                 }
             ]
         },
@@ -19,12 +21,6 @@
             "courseCode": "CS1131",
             "classID": "M25102",
             "items": [
-                {
-                    "type": "homework",
-                    "content": "Coursemology Labs 3, 4 and 5.0 \n(https://v.gd/TbP9GU, https://v.gd/6qrMbd, https://v.gd/ekyY17)",
-                    "dueDate": "2025-07-21T08:00:00",
-                    "optional": false
-                }
             ]
         },
         {
@@ -51,10 +47,6 @@
             "courseCode": "PC1131",
             "classID": "M25102",
             "items": [
-                {
-                    "type": "info",
-                    "content": "HBL (BL) on 15 and 17 Jul 2025 \n15 Jul: homework task TBC (async) \n17 Jul: Online meeting, details TBC"
-                }
             ]
         },
         {
