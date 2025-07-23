@@ -27,7 +27,7 @@
                 },
                 {
                     "type": "homework",
-                    "content": "Coursemology Lab 5.1 - https://v.gd/UiOgPp (open now) \nCoursemology Lab 6 - https://v.gd/Tg1GEp (opens 23 Jul)",
+                    "content": "Coursemology Lab 5.1 - https://v.gd/UiOgPp \nCoursemology Lab 6 - https://v.gd/Tg1GEp",
                     "dueDate": null,
                     "optional": false
                 }
@@ -70,13 +70,7 @@
             "items": [
                 {
                     "type": "info",
-                    "content": "GT 4 - 30 Jul 2025 \nICW 11 - 23 Jul 2025"
-                },
-                {
-                    "type": "homework",
-                    "content": "Tutorial 13.1",
-                    "dueDate": "2025-07-23T11:30:00",
-                    "optional": false
+                    "content": "GT 4 - 30 Jul 2025"
                 }
             ]
         },
@@ -115,6 +109,11 @@
             "courseCode": "AR1134",
             "classID": "M25102",
             "items": [
+                {
+                    "type": "homework",
+                    "content": "Visual Research templates for Lines, Shapes and Sounds",
+                    "dueDate": "2025-07-29T10:30:00"
+                }
             ]
         },
         {
@@ -122,10 +121,6 @@
             "courseCode": "BL1131",
             "classID": "M25102",
             "items": [
-                {
-                    "type": "info",
-                    "content": "GT 1 (Topic 3) on 23 Jul 2025 \nTeams post: https://v.gd/1FPSQ2"
-                },
                 {
                     "type": "homework",
                     "content": "Complete and mark Review WS 4 (Topic 3: Cells)",
@@ -135,7 +130,7 @@
                 {
                     "type": "homework",
                     "content": "Check answers for Topic 3: Cell structure & organisation notes",
-                    "dueDate": "2025-07-09T09:30:00",
+                    "dueDate": null,
                     "optional": false
                 },
                 {
@@ -160,7 +155,7 @@
                 {
                     "type": "homework",
                     "content": "HBL (SLS Assignment) https://v.gd/tI6E3H",
-                    "dueDate": "2025-07-23T08:00:00",
+                    "dueDate": null,
                     "optional": false
                 },
                 {
