@@ -61,6 +61,22 @@
             "courseCode": "PC1131",
             "classID": "M25102",
             "items": [
+                {
+                    "type": "info",
+                    "content": "In-class Assignment on Reflection of Light: Tue 29 Jul - https://v.gd/kjdHsl"
+                },
+                {
+                    "type": "homework",
+                    "content": "Complete Teams quiz on Reflection of Light: https://v.gd/oyU42F",
+                    "dueDate": "2025-07-28T21:00:00",
+                    "optional": false
+                },
+                {
+                    "type": "homework",
+                    "content": "Reflection of Light Worksheet",
+                    "dueDate": "2025-07-29T12:30:00",
+                    "optional": false
+                }
             ]
         },
         {
@@ -182,6 +198,17 @@
                     "content": "[HBL 25/7] Complete mock test paper on BTO scheme",
                     "dueDate": null,
                     "optional": false
+                }
+            ]
+        },
+        {
+            "subject": "PE",
+            "courseCode": "PE1131",
+            "classID": "M25102",
+            "items": [
+                {
+                    "type": "info",
+                    "content": "Bring mug, spoon and beverage for outdoor cooking lesson on 29 Jul"
                 }
             ]
         }
