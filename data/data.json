@@ -10,8 +10,8 @@
             "items": [
                 {
                     "type": "homework",
-                    "content": "Pre-lesson activity for RHD CCE lesson on 23/7 \n Teams Post: https://v.gd/NCKsLp",
-                    "dueDate": "2025-07-23T14:00:00",
+                    "content": "Vote for seating plan - https://t.ly/rnSvY",
+                    "dueDate": null,
                     "optional": false
                 }
             ]
@@ -40,6 +40,12 @@
                     "dueDate": null,
                     "optional": false
                 }
+                {
+                    "type": "homework",
+                    "content": "Worksheet 9 (except 9.2) - https://t.ly/0qudz",
+                    "dueDate": null,
+                    "optional": false
+                }
             ]
         },
         {
@@ -61,10 +67,8 @@
                     "optional": false
                 },
                 {
-                    "type": "homework",
-                    "content": "Assignment 11",
-                    "dueDate": "2025-07-21T16:00:00",
-                    "optional": false
+                    "type": "info",
+                    "content": "Graded Task 4 - https://t.ly/86cki",
                 }
             ]
         },
@@ -90,12 +94,6 @@
             "courseCode": "DV1132",
             "classID": "M25102",
             "items": [
-                {
-                    "type": "homework",
-                    "content": "[Design] Prepare two photos and print (black and white)",
-                    "dueDate": "2025-07-14T13:00:00",
-                    "optional": false
-                }
             ]
         },
         {
