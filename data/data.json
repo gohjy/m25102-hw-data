@@ -10,8 +10,8 @@
             "items": [
                 {
                     "type": "homework",
-                    "content": "Racial Harmony Day Pre-lesson activity \nTeams assignment: https://v.gd/KAC2sU",
-                    "dueDate": "2025-07-22T18:00:00",
+                    "content": "Vote for seating plan - https://t.ly/rnSvY",
+                    "dueDate": null,
                     "optional": false
                 }
             ]
@@ -53,6 +53,12 @@
                 {
                     "type": "homework",
                     "content": "[HBL 25/7] SLS Lesson: Covalent Bonds"
+                },
+                {
+                    "type": "homework",
+                    "content": "Worksheet 9 (except 9.2) - https://t.ly/0qudz",
+                    "dueDate": null,
+                    "optional": false
                 }
             ]
         },
@@ -86,7 +92,7 @@
             "items": [
                 {
                     "type": "info",
-                    "content": "GT 4 - 30 Jul 2025"
+                    "content": "GT 4 - 30 Jul 2025 \n Teams post: https://t.ly/86cki"
                 }
             ]
         },
@@ -165,12 +171,6 @@
                 {
                     "type": "homework",
                     "content": "Workbook B Pg 1-7",
-                    "dueDate": null,
-                    "optional": false
-                },
-                {
-                    "type": "homework",
-                    "content": "HBL (SLS Assignment) https://v.gd/tI6E3H",
                     "dueDate": null,
                     "optional": false
                 },
