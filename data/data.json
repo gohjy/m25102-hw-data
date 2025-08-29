@@ -4,211 +4,28 @@
     "url": "https://gohjy.github.io/m25102-hw-data/data/data.json",
     "homeworkData": [
         {
-            "subject": "Mentoring/CCE",
-            "courseCode": "CE1100",
-            "classID": "M25102",
-            "items": [
-                {
-                    "type": "homework",
-                    "content": "Racial Harmony Day Pre-lesson activity \nTeams assignment: https://v.gd/KAC2sU",
-                    "dueDate": "2025-07-22T18:00:00",
-                    "optional": false
-                }
-            ]
-        },
-        {
-            "subject": "CS 1",
-            "courseCode": "CS1131",
-            "classID": "M25102",
-            "items": [
-                {
-                    "type": "info",
-                    "content": "GT 1 - 4 Aug 2025 - https://v.gd/ayvNdp"
-                },
-                {
-                    "type": "homework",
-                    "content": "Coursemology Lab 5.1 - https://v.gd/UiOgPp \nCoursemology Lab 6 - https://v.gd/Tg1GEp",
-                    "dueDate": null,
-                    "optional": false
-                }
-            ]
-        },
-        {
-            "subject": "Chem 1",
+            "subject": "Chemistry",
             "courseCode": "CM1131",
             "classID": "M25102",
             "items": [
                 {
                     "type": "homework",
-                    "content": "Read notes for Topic 8 (pg 25-29) and Appendix 2",
-                    "dueDate": null,
-                    "optional": false
-                },
-                {
-                    "type": "homework",
-                    "content": "Worksheets 8.1-8.5, 9.3-9.5",
-                    "dueDate": null,
-                    "optional": false
-                },
-                {
-                    "type": "homework",
-                    "content": "[HBL 25/7] SLS Lesson: Covalent Bonds"
-                }
-            ]
-        },
-        {
-            "subject": "Physics 1",
-            "courseCode": "PC1131",
-            "classID": "M25102",
-            "items": [
-                {
-                    "type": "info",
-                    "content": "In-class Assignment on Reflection of Light: Tue 29 Jul - https://v.gd/kjdHsl"
-                },
-                {
-                    "type": "homework",
-                    "content": "Complete Teams quiz on Reflection of Light: https://v.gd/oyU42F",
-                    "dueDate": "2025-07-28T21:00:00",
-                    "optional": false
-                },
-                {
-                    "type": "homework",
-                    "content": "Reflection of Light Worksheet",
-                    "dueDate": "2025-07-29T12:30:00",
+                    "content": "Hand in Practical 12 to Chem Rep",
+                    "dueDate": "2025-08-29T23:59:59",
                     "optional": false
                 }
             ]
         },
         {
-            "subject": "Math 1",
-            "courseCode": "MA1133",
-            "classID": "M25102",
-            "items": [
-                {
-                    "type": "info",
-                    "content": "GT 4 - 30 Jul 2025"
-                }
-            ]
-        },
-        {
-            "subject": "EL 1",
-            "courseCode": "EL1131",
-            "classID": "M25102",
-            "items": [
-                {
-                    "type": "info",
-                    "content": "PBQ Summative: 30 Jul 2025"
-                },
-                {
-                    "type": "homework",
-                    "content": "IPA Poem Milestone Check - https://v.gd/o7hi3Y",
-                    "dueDate": "2025-07-25T20:00:00",
-                    "optional": false
-                },
-                {
-                    "type": "homework",
-                    "content": "IPA Final Poem - https://v.gd/cYQhZS",
-                    "dueDate": "2025-08-22T20:00:00",
-                    "optional": false
-                }
-            ]
-        },
-        {
-            "subject": "DV D&E 1 Design",
-            "courseCode": "DV1132",
-            "classID": "M25102",
-            "items": [
-            ]
-        },
-        {
-            "subject": "Art 1",
-            "courseCode": "AR1134",
-            "classID": "M25102",
-            "items": [
-                {
-                    "type": "homework",
-                    "content": "Visual Research templates for Lines, Shapes and Sounds",
-                    "dueDate": "2025-07-29T10:30:00"
-                }
-            ]
-        },
-        {
-            "subject": "Bio 1",
-            "courseCode": "BL1131",
-            "classID": "M25102",
-            "items": [
-                {
-                    "type": "homework",
-                    "content": "Complete and mark Review WS 4 (Topic 3: Cells)",
-                    "dueDate": null,
-                    "optional": false
-                },
-                {
-                    "type": "homework",
-                    "content": "Check answers for Topic 3: Cell structure & organisation notes",
-                    "dueDate": null,
-                    "optional": false
-                },
-                {
-                    "type": "homework",
-                    "content": "Group presentation on Mutualism",
-                    "dueDate": "2025-09-06T18:00:00",
-                    "optional": false
-                }
-            ]
-        },
-        {
-            "subject": "HCL 1",
-            "courseCode": "CH1531",
-            "classID": "B",
-            "items": [
-                {
-                    "type": "homework",
-                    "content": "Workbook B Pg 1-7",
-                    "dueDate": null,
-                    "optional": false
-                },
-                {
-                    "type": "homework",
-                    "content": "HBL (SLS Assignment) https://v.gd/tI6E3H",
-                    "dueDate": null,
-                    "optional": false
-                },
-                {
-                    "type": "homework",
-                    "content": "习字",
-                    "dueDate": "2025-07-29T08:00:00",
-                    "optional": false
-                }
-            ]
-        },  
-        {
-            "subject": "Hum 1",
+            "subject": "Humanities",
             "courseCode": "HU1131",
             "classID": "M25102",
             "items": [
                 {
                     "type": "homework",
-                    "content": "Copy answers to Reliability Notes: https://v.gd/gECQaP",
-                    "dueDate": null,
+                    "content": "Defence spending practice worksheet",
+                    "dueDate": "2025-09-19T11:00:00",
                     "optional": false
-                },
-                {
-                    "type": "homework",
-                    "content": "[HBL 25/7] Complete mock test paper on BTO scheme",
-                    "dueDate": null,
-                    "optional": false
-                }
-            ]
-        },
-        {
-            "subject": "PE",
-            "courseCode": "PE1131",
-            "classID": "M25102",
-            "items": [
-                {
-                    "type": "info",
-                    "content": "Bring mug, spoon and beverage for outdoor cooking lesson on 29 Jul"
                 }
             ]
         }
